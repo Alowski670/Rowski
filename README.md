@@ -1,2 +1,2 @@
 # Rowski
-Proyectos de R para la clase de bioinformatica
+Proyectos de R para la clase de bioinformatica 
